@@ -3,15 +3,15 @@
 <imag align= "right" alt= "coding" width= "400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadali-zafar&label=Profile%20views&color=0e75b6&style=flat" alt="asadali-zafar" /> </p>
 
--  I’m currently working on [Mines and Rocks prediction](https://colab.research.google.com/drive/1Hmj1Z7FGzYktqIHDx8MK8B0_FL2WWxaR?usp=sharing)
+-  I’ve worked on [Mines and Rocks prediction](https://colab.research.google.com/drive/1Hmj1Z7FGzYktqIHDx8MK8B0_FL2WWxaR?usp=sharing)
+
+
+-  I’ve worked on [Big Mart Sales Prediction](https://colab.research.google.com/drive/1AYvHj8_BqNiTb6nV-s1MStiVVFMyzy7t?usp=sharing)
+
+-  I’ve worked on [Spam mail prediction](https://colab.research.google.com/drive/1tB2N11WiBzXJ9Ym28r7djRt46GwN3nr0?usp=sharing)
 
 -  I’m currently learning **Tensor Flow**
-
--  I’m looking to collaborate on [Big Mart Sales Prediction](https://colab.research.google.com/drive/1AYvHj8_BqNiTb6nV-s1MStiVVFMyzy7t?usp=sharing)
-
--  I’m looking for help with [Spam mail prediction](https://colab.research.google.com/drive/1tB2N11WiBzXJ9Ym28r7djRt46GwN3nr0?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: asadalizafar@hotmail.com</h3>
 <p align="left">
 </p>
 
