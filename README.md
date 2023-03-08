@@ -1,5 +1,5 @@
 <h1 align="center">😎 Hey! Nice to see you.</h1>
-<h3 align="center">Welcome to my page! I'm Thomas, Fullstack developer from Lorient, France, currently living in Stockholm, Sweden.</h3>
+<h3 align="center">Welcome to my page! I'm Asad, Data scientist and machine learning specialist from Lahore, pakistan.</h3>
 <imag align= "right" alt= "coding" width= "400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadali-zafar&label=Profile%20views&color=0e75b6&style=flat" alt="asadali-zafar" /> </p>
 
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadali-zafar&show_icons=true&locale=en" alt="asadali-zafar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadali-zafar&" alt="asadali-zafar" /></p>
+
