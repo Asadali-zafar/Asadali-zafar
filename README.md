@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Assad Ali</h1>
-<h3 align="center">A passionate Machine learning specialist and data wizard</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadali-zafar&label=Profile%20views&color=0e75b6&style=flat" alt="asadali-zafar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadali-zafar" alt="asadali-zafar" /></a> </p>
+<h1 align="center">😎 Hey! Nice to see you.</h1>
+<h3 align="center">Welcome to my page! I'm Thomas, Fullstack developer from Lorient, France, currently living in Stockholm, Sweden.</h3>
 
 - 🔭 I’m currently working on [Mines and Rocks prediction](https://colab.research.google.com/drive/1Hmj1Z7FGzYktqIHDx8MK8B0_FL2WWxaR?usp=sharing)
 
