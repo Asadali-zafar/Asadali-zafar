@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github.com/Asadali-zafar/Asadali-zafar/blob/main/github-banner.png
+https://drive.google.com/file/d/1X5_-mDoNPVkPCtC87YR6SQghQfa8sQEb/view?usp=sharing
 
 - 🔭 I’m currently working on Python development
 - 🌱 I’m currently learning NLP
